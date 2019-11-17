@@ -1,5 +1,5 @@
 # xvideos_spyder
-xvideos的爬虫 需要翻墙
+xvideos的爬虫 需要翻墙 youtube的爬不到 所以先练练手
 
 ## 使用
 1.首先连接VPN,将big_path换成自己的目录<br>
